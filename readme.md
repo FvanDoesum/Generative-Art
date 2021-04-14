@@ -25,7 +25,9 @@
 `Schrijf hier een klein logboekje met je voortgang per week.`
 
 ### Week-1
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Onderzoek gedaan naar voorbeelden (zie bronnen). Op YouTube de 'Code! Programming with p5.js' van The Coding Train gevolgd. Ik wist niet dat deze zó lang duurde dus als ik alles nu al had willen bekijken had ik eerder moeten beginnen. Qua concept ben ik nog te veel aan het zoeken.
+
+
 
 ### Week-2
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
@@ -36,6 +38,6 @@
 
 ## Bronnenlijst
 
-* `Link naar bron 1`
-* `Link naar bron 2`
-* `Link naar bron 3`
+* https://levelup.gitconnected.com/generative-art-3-fundamental-concepts-to-get-you-started-44205dae167b
+* https://aiartists.org/generative-art-design
+* 
