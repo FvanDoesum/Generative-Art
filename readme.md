@@ -3,11 +3,11 @@
 # Procesverslag
 
 ## Over
-* **Naam:** `voornaam + achternaam`
-* **Klas:** `vid-1/vid-2`
-* **Minor:** `Visual Interface Design`
-* **Favoriete dier:** `Zeeotters zijn te gek!`
-* **Startniveau:** `blauw/rood/zwart`
+* **Naam:** Fien van Doesum
+* **Klas:** vid-2A
+* **Minor:** Visual Interface Design
+* **Favoriete dier:** Grote chubby honden!
+* **Startniveau:** `blauw/rood/zwart` Geel? 😂
 
 ## Concept
 
