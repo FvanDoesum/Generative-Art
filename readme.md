@@ -11,7 +11,7 @@
 
 ## Concept
 
-`Beschrijf in het algemeen je concept van je project.`
+Ik zou iets willen maken om de magie van de natuur te vertegenwoordigen. Denk dan aan een mysterieuze oceaan of de synchroon vliegende vogelzwermen. Om de zachtheid en mysterie uit te beelden wil ik ronde vormen gebruiken.
 
 ## Features
 
@@ -19,6 +19,15 @@
 
 ## Onderzoek & inspiratie
 `Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`
+* Ik werd gelijk aangetrokken door deze creative coding algoritme & techniek: https://www.notion.so/Creative-coding-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b?p=d01dde60ee4f47eab4fd0a0e6c1ee293 Het zijn betoverende bewegingen die de vogels in het echt ook maken.
+
+* Dit lijkt voor mij als de woeste zee, ook iets waar veel mensen weingig over weten waardoor het een mysterieus iets is:
+https://www.notion.so/Creative-coding-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b?p=7f20c1e272b54d71854d835b6bcaa20a
+
+* Bladeren die van de bomen vallen: https://www.notion.so/Creative-coding-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b?p=97108c58332b462c9d47d76d5d8d120f
+
+* Minuut 0:23, 1:30 in https://www.youtube.com/watch?v=qtPi0JvmWbs zijn ook goede voorbeelden van wat ik voor ogen zie.
+
 
 ## Voortang
 
@@ -30,7 +39,7 @@ Onderzoek gedaan naar voorbeelden (zie bronnen). Op YouTube de 'Code! Programmin
 
 
 ### Week-2
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Onderzoek gedaan naar de mogelijkheden. Veel naar inspiratie gezocht en meerdere YouTube-tutorials bekeken. Ik vind het maar lastig om echt een concreet concept te hebben. Ik zie elke keer weer iets anders nieuws waardoor ik steeds ga veranderen.
 
 ### Week-3
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
