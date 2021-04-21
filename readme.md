@@ -11,7 +11,7 @@
 
 ## Concept
 
-Ik zou iets willen maken om de magie van de natuur te vertegenwoordigen. Denk dan aan een mysterieuze oceaan of de synchroon vliegende vogelzwermen. Om de zachtheid en mysterie uit te beelden wil ik ronde vormen gebruiken.
+Ik zou iets willen maken om de magie van de natuur te vertegenwoordigen. Denk dan aan een mysterieuze oceaan of de synchroon vliegende vogelzwermen. Om de zachtheid en mysterie uit te beelden wil ik ronde vormen gebruiken. Je kunt dan met je handen bewegen via de camera om de golven/stromingen onder water te laten bewegen.
 
 ## Features
 
