@@ -41,7 +41,12 @@ Onderzoek gedaan naar voorbeelden (zie bronnen). Op YouTube de 'Code! Programmin
 ### Week-2
 Onderzoek gedaan naar de mogelijkheden. Veel naar inspiratie gezocht en meerdere YouTube-tutorials bekeken. Ik vind het maar lastig om echt een concreet concept te hebben. Ik zie elke keer weer iets anders nieuws waardoor ik steeds ga veranderen.
 
+
 ### Week-3
+Deze week vooral bezig geweest met het proberen van codes in p5.js. Momenteel ben ik bezig om de camera te laten werken op beweging.
+
+
+### Week-4
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
 
 
