@@ -47,6 +47,10 @@ Deze week vooral bezig geweest met het proberen van codes in p5.js. Momenteel be
 
 
 ### Week-4
+Vakantie!
+
+
+### Week-5
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
 
 
