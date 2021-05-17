@@ -53,10 +53,9 @@ Vakantie!
 ### Week-5
 Onderzoek gedaan naar de camera functie: https://www.tetoki.eu/vida/
 En naar face tracking: https://github.com/auduno/clmtrackr
-
+Ontzettend veel geprobeerd alleen ik kan niet vinden hoe ik nou alle functies ga koppelen. De face en object tracking/detection heb ik, de data heb ik, de stroming met perling noise heb ik. Maar ik weet nu niet hoe nu verder!
 
 ## Bronnenlijst
 
 * https://levelup.gitconnected.com/generative-art-3-fundamental-concepts-to-get-you-started-44205dae167b
 * https://aiartists.org/generative-art-design
-* 
