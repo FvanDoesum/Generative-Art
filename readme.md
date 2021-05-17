@@ -52,6 +52,7 @@ Vakantie!
 
 ### Week-5
 Onderzoek gedaan naar de camera functie: https://www.tetoki.eu/vida/
+En naar face tracking: https://github.com/auduno/clmtrackr
 
 
 ## Bronnenlijst
