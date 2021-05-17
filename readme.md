@@ -51,7 +51,7 @@ Vakantie!
 
 
 ### Week-5
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Onderzoek gedaan naar de camera functie: https://www.tetoki.eu/vida/
 
 
 ## Bronnenlijst
