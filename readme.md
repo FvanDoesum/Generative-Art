@@ -11,14 +11,12 @@
 
 ## Concept
 
-Ik zou iets willen maken om de magie van de natuur te vertegenwoordigen. Denk dan aan een mysterieuze oceaan of de synchroon vliegende vogelzwermen. Om de zachtheid en mysterie uit te beelden wil ik ronde vormen gebruiken. Je kunt dan met je handen bewegen via de camera om de golven/stromingen onder water te laten bewegen.
+Mijn generatieve kunstwerk representateert mijn passie met water. Ik heb de oceaan altijd als mysterieus gevonden en ben zelf een waterman als sterrenbeeld. Als kind was ik vroeger altijd in het water te vinden! Om de zachtheid en mysterie uit te beelden wil ik ronde vormen gebruiken. Je kunt dan met je hoofd bewegen via de camera om de kleuren van de golven/stromingen onder water te laten veranderen.
 
 ## Features
-
-`Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?`
+Je kunt als gebruiker met je hoofd bewegen van links naar rechts zodat de golven veranderen in een nieuwe kleur van water. Zo is hij elke keer weer anders.
 
 ## Onderzoek & inspiratie
-`Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`
 * Ik werd gelijk aangetrokken door deze creative coding algoritme & techniek: https://www.notion.so/Creative-coding-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b?p=d01dde60ee4f47eab4fd0a0e6c1ee293 Het zijn betoverende bewegingen die de vogels in het echt ook maken.
 
 * Dit lijkt voor mij als de woeste zee, ook iets waar veel mensen weingig over weten waardoor het een mysterieus iets is:
@@ -31,7 +29,6 @@ https://www.notion.so/Creative-coding-algorithms-techniques-c5550ef2f7574126bdc7
 
 ## Voortang
 
-`Schrijf hier een klein logboekje met je voortgang per week.`
 
 ### Week-1
 Onderzoek gedaan naar voorbeelden (zie bronnen). Op YouTube de 'Code! Programming with p5.js' van The Coding Train gevolgd. Ik wist niet dat deze zó lang duurde dus als ik alles nu al had willen bekijken had ik eerder moeten beginnen. Qua concept ben ik nog te veel aan het zoeken.
@@ -42,12 +39,15 @@ Onderzoek gedaan naar voorbeelden (zie bronnen). Op YouTube de 'Code! Programmin
 Onderzoek gedaan naar de mogelijkheden. Veel naar inspiratie gezocht en meerdere YouTube-tutorials bekeken. Ik vind het maar lastig om echt een concreet concept te hebben. Ik zie elke keer weer iets anders nieuws waardoor ik steeds ga veranderen.
 
 
+
 ### Week-3
 Deze week vooral bezig geweest met het proberen van codes in p5.js. Momenteel ben ik bezig om de camera te laten werken op beweging.
 
 
+
 ### Week-4
 Vakantie!
+
 
 
 ### Week-5
@@ -55,7 +55,17 @@ Onderzoek gedaan naar de camera functie: https://www.tetoki.eu/vida/
 En naar face tracking: https://github.com/auduno/clmtrackr
 Ontzettend veel geprobeerd alleen ik kan niet vinden hoe ik nou alle functies ga koppelen. De face en object tracking/detection heb ik, de data heb ik, de stroming met perling noise heb ik. Maar ik weet nu niet hoe nu verder!
 
+
+
+### Week-6
+Na 6 weken heb ik meer bereikt dan ik ooit had gedacht. Door mijn studieroute heb ik geen ervaring met coderen opgebouwd. Daarom was ik gelijk al bang dat ik enorm zou gaan achterlopen. Gelukkig heb ik aardig wat mijzelf kunnen aanleren vanuit de lessen en oneindig veel YouTube-video's. Ik heb ook nog nooit zó lang achter elkaar aan een opdracht gezeten 😅. Uiteindelijk is het niet helemaal gelukt wat ik voor ogen had. Ondanks de hulp. Ik wist nog een aantal puntjes toe te passen maar ik kon maar niet begrijpen waar en hoe ik dan de rest kon veranderen. Ik denk dat dit gewoon een kwestie is van doorgaan en heel wat uurtjes maken. Ik ben in ieder geval trots op wat ik nu al allemaal geleerd heb!
+
+
+
 ## Bronnenlijst
 
 * https://levelup.gitconnected.com/generative-art-3-fundamental-concepts-to-get-you-started-44205dae167b
 * https://aiartists.org/generative-art-design
+* https://www.notion.so/Creative-coding-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b?p=d01dde60ee4f47eab4fd0a0e6c1ee293
+* https://www.notion.so/Creative-coding-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b?p=97108c58332b462c9d47d76d5d8d120f
+* https://www.youtube.com/watch?v=qtPi0JvmWbs
